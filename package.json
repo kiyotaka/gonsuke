@@ -1,0 +1,19 @@
+{
+  "name": "gonsuke",
+  "version": "1.0.0",
+  "description": "imohori robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiyotaka/gonsuke.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiyotaka/gonsuke/issues"
+  },
+  "homepage": "https://github.com/kiyotaka/gonsuke#readme"
+}
